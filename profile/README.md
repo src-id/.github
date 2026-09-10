@@ -4,29 +4,29 @@
 
 # SRC
 
-**Software House & IT Consulting**  
+**Software Engineering &amp; Technology Consulting**  
 Indonesia
 
 ---
 
 </div>
 
-### About
+### Overview
 
-SRC adalah software house dan konsultan IT berbasis di Indonesia. Kami membangun solusi digital end-to-end — dari sistem enterprise, otomasi bisnis, hingga arsitektur cloud.
+SRC is a technology firm and engineering consultancy based in Indonesia. We design, architect, and deliver robust digital systems — spanning mission-critical enterprise platforms, distributed cloud infrastructure, and intelligent business automation.
 
-### What We Do
+### Capabilities
 
-- **Custom Software Development** — Web apps, mobile apps, internal tools
-- **IT Consulting & Architecture** — System design, cloud migration, performance audit
-- **API & Integration** — Backend services, third-party integrations, microservices
-- **DevOps & Infrastructure** — CI/CD, containerization, server management
+- **Custom Software Engineering** — High-performance web applications, scalable backends, internal platforms
+- **Architecture &amp; Cloud Advisory** — System design audits, cloud migration, microservices decomposition
+- **API &amp; System Integration** — Resilient microservices, payment gateways, complex third-party workflows
+- **DevOps &amp; Infrastructure** — CI/CD automation, container orchestration (Docker/K8s), infrastructure-as-code
 
-### Connect
+### Ecosystem &amp; Links
 
-- 🌐 Website: [src-id.github.io](https://src-id.github.io)
-- 🐙 GitHub: [@src-id](https://github.com/src-id)
-- 📦 Brand Assets: [src-id/assets](https://github.com/src-id/assets)
+- 🌐 **Website**: [src-id.github.io](https://src-id.github.io)
+- 🐙 **GitHub**: [@src-id](https://github.com/src-id)
+- 📦 **Brand Assets**: [src-id/assets](https://github.com/src-id/assets)
 
 ---
 

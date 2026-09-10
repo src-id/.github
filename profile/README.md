@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/src-id/assets/main/logo/logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/src-id/assets/main/logo/logo.svg">
-  <img src="https://raw.githubusercontent.com/src-id/assets/main/logo/logo.svg" width="96" height="96" alt="SRC Logo" />
-</picture>
+<img src="https://raw.githubusercontent.com/src-id/assets/main/logo/profile-dark.svg" width="96" height="96" alt="SRC Logo" />
 
 # SRC
 
